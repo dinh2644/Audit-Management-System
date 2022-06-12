@@ -1,6 +1,6 @@
 # Store-System-Aldi-
 
-A retail store system project with and Aldi theme for CSP 15100. 
+Project for CSP 15100 | Store system w/ an Aldi theme 
 This deals with object oriented programming (OOP) in which it contains:
 inheritance,
 abstract class,
