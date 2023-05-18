@@ -1,6 +1,6 @@
-# Store-System-Aldi-
+# Auditing system-
 
-CSP 15100 Project | Store system w/ an Aldi theme | OOP dealing with
+CSP 15100 Project | Auditing system w/ an Aldi theme | OOP dealing with
 inheritance,
 abstract class,
 file i/o,
